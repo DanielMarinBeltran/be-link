@@ -1,0 +1,23 @@
+{
+  "/_app": "pages/_app.js",
+  "/404": "pages/404.html",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/contact": "pages/contact.html",
+  "/blog-2": "pages/blog-2.js",
+  "/blog": "pages/blog.js",
+  "/blog/page/[page]": "pages/blog/page/[page].js",
+  "/blog/[id]": "pages/blog/[id].js",
+  "/home-2": "pages/home-2.js",
+  "/projects-4": "pages/projects-4.js",
+  "/projects-5": "pages/projects-5.js",
+  "/projects-2": "pages/projects-2.js",
+  "/projects": "pages/projects.js",
+  "/projects-3": "pages/projects-3.js",
+  "/": "pages/index.js",
+  "/services": "pages/services.js",
+  "/story": "pages/story.js",
+  "/services/[id]": "pages/services/[id].js",
+  "/projects/[id]": "pages/projects/[id].js"
+}
